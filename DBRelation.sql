@@ -86,5 +86,4 @@ CREATE TABLE DoesBusinessIn
  TerritoryID INTEGER,
  PRIMARY KEY(CustomerID, TerritoryID),
  FOREIGN KEY(CustomerID) REFERENCES Customer,
- FOREIGN KEY(TerritoryID) REFERENCES Territory
-)
+ FOREIGN KEY(TerritoryID) REFERENCES Territory)
