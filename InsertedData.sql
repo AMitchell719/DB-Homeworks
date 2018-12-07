@@ -81,16 +81,22 @@ VALUES (5, 'Jacob Winslow', '2238973498', '', '', '', 5);
 /*Insert into DoesBusinessIn */
 INSERT INTO DoesBusinessIn (CustomerID, TerritoryID)
 VALUES (1, 1);
+
 INSERT INTO DoesBusinessIn (CustomerID, TerritoryID)
 VALUES (2, 2);
+
 INSERT INTO DoesBusinessIn (CustomerID, TerritoryID)
 VALUES (3, 3);
+
 INSERT INTO DoesBusinessIn (CustomerID, TerritoryID)
 VALUES (4, 4);
+
 INSERT INTO DoesBusinessIn (CustomerID, TerritoryID)
 VALUES (5, 5);
+
 INSERT INTO DoesBusinessIn (CustomerID, TerritoryID)
 VALUES (6, 1);
+
 INSERT INTO DoesBusinessIn (CustomerID, TerritoryID)
 VALUES (7, 2);
 
